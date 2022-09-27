@@ -4,7 +4,7 @@
     {
         public static int ToNum(this string value)
         {
-            return int.Parse(1value);
+            return int.Parse(value);
         }
     }
 }
