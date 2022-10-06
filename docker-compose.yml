@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  nexuswebapp:
+    image: ${DOCKER_REGISTRY-}nexuswebapp
+    build:
+      context: .
+      dockerfile: NexusWebApp/Dockerfile

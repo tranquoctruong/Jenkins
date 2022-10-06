@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringExtension", "StringExtension\StringExtension.csproj", "{8ADB552F-6FAC-4E01-82F5-5269CFCF800D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexusWebApp", "NexusWebApp\NexusWebApp.csproj", "{7698722A-5F16-4A3F-80E2-90750BD68451}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NexusWebApp", "NexusWebApp\NexusWebApp.csproj", "{7698722A-5F16-4A3F-80E2-90750BD68451}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

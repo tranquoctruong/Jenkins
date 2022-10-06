@@ -1,0 +1,12 @@
+D:\ProjectTasks\Nexus\StringExtension\bin\Release\net6.0\StringExtension.deps.json
+D:\ProjectTasks\Nexus\StringExtension\bin\Release\net6.0\StringExtension.dll
+D:\ProjectTasks\Nexus\StringExtension\bin\Release\net6.0\StringExtension.pdb
+D:\ProjectTasks\Nexus\StringExtension\obj\Release\net6.0\StringExtension.csproj.AssemblyReference.cache
+D:\ProjectTasks\Nexus\StringExtension\obj\Release\net6.0\StringExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectTasks\Nexus\StringExtension\obj\Release\net6.0\StringExtension.AssemblyInfoInputs.cache
+D:\ProjectTasks\Nexus\StringExtension\obj\Release\net6.0\StringExtension.AssemblyInfo.cs
+D:\ProjectTasks\Nexus\StringExtension\obj\Release\net6.0\StringExtension.csproj.CoreCompileInputs.cache
+D:\ProjectTasks\Nexus\StringExtension\obj\Release\net6.0\StringExtension.dll
+D:\ProjectTasks\Nexus\StringExtension\obj\Release\net6.0\refint\StringExtension.dll
+D:\ProjectTasks\Nexus\StringExtension\obj\Release\net6.0\StringExtension.pdb
+D:\ProjectTasks\Nexus\StringExtension\obj\Release\net6.0\ref\StringExtension.dll
